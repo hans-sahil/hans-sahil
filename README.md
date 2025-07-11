@@ -17,5 +17,5 @@ I love turning ideas into polished, user-friendly web applications and constantl
 React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Material UI, Node.js, HTML5, CSS3, REST APIs, Git, Agile/Scrum
 
 ## Social Links
-- https://www.linkedin.com/in/sahilhans9545/
+- https://www.linkedin.com/in/hans-sahil/
 - https://www.freelancer.com/u/hanss9545
